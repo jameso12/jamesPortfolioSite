@@ -1,0 +1,41 @@
+:root{
+    --blueBackgroundColor: #5673df;
+    --aboutMeParagraphPadding: 20px;
+}
+body{
+    background-image: url("../res/technology-background-1632715.jpg");
+    background-size: cover;
+}
+.headerdiv{
+    background-color:  var(--blueBackgroundColor);
+    position: absolute;
+    left: 0; right: 0;
+}
+.mainheadername{
+    display: inline-block;
+    padding-right: 25px;
+    padding-left: 25px;
+ 
+}
+.headeraboutme{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+
+
+}
+.textaboutme{
+
+}
+.abouTextDiv{
+    padding-right: var(--aboutMeParagraphPadding);
+    padding-left: var(--aboutMeParagraphPadding);
+    padding-bottom: var(--aboutMeParagraphPadding);
+}
+.aboutdiv{
+    margin: 5vh 25vw 0vh 25vw;
+    border-radius: 3%;
+    background-color: var(--blueBackgroundColor);
+
+
+}
