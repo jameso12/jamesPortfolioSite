@@ -1,6 +1,7 @@
 :root{
     --blueBackgroundColor: #5673df;
     --aboutMeParagraphPadding: 20px;
+    font-family: 'Courier New', Courier, monospace;
 }
 body{
     background-image: url("../res/technology-background-1632715.jpg");
